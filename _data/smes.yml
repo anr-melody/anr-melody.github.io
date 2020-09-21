@@ -1,0 +1,20 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: OceanNext
+  photo: logo_ON.jpg
+  contact: Dr. Jacques Verron
+  webpage: https://www.ocean-next.fr/
+
+- name: OceanDataLab
+  photo: logo_ON.jpg
+  contact: Dr. Fabrice Collard
+  webpage: https://www.oceandatalab.com/
+ 
