@@ -1,13 +1,13 @@
 ---
 title: "ANR Melody - Highlights"
 layout: gridlay
-excerpt: "ANR Melody -- Publications."
+excerpt: "ANR Melody -- Highlights."
 sitemap: false
 permalink: /highlights/
 ---
 
 
-## Group highlights
+## highlights
 
 
 {% assign number_printed = 0 %}
