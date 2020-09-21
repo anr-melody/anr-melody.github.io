@@ -60,10 +60,10 @@ ANR Melody (2019-2023) “Bridging geophysics and MachinE Learning for the model
  IMT Atlantique, Lab-STICC 
  [AI Chair OceaniX](https://cia-oceanix.github.io)
  [Webpage](https://rfablet.github.io)
- [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_Melody.jpg" style="width: 600px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_melody.jpg" style="width: 600px">
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ISBLUE.png" style="width: 50px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_anr.png" style="width: 50px">-->
 </figure>
