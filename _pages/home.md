@@ -58,8 +58,8 @@ ANR Melody (2019-2023) “Bridging geophysics and MachinE Learning for the model
 
  **Contact**: Prof. Ronan Fablet
  IMT Atlantique, Lab-STICC 
- [AI Chair OceaniX](https://cia-oceanix.github.io)
- [Webpage](https://rfablet.github.io)
+ <br>[AI Chair OceaniX](https://cia-oceanix.github.io)
+ <br>[Webpage](https://rfablet.github.io)
 
 
 <figure class="fourth">
