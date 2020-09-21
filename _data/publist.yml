@@ -1,0 +1,29 @@
+- title: "Joint learning of variational models and solvers for inverse problems"
+  image: fig_MNIST0770_All.jpg
+  description: This paper introduces a novel data-driven framework to jointly learn variational models and the associated solvers to address inverse problems in signal and image processing. 
+  authors: R Fablet, L Drumetz, F Rousseau
+  link:
+    url: https://arxiv.org/abs/2006.03653
+    display:  arXiv:2006.03653
+  highlight: 1
+  news2:
+
+- title: "PDE-NetGen 1.0: from symbolic partial differential equation (PDE) representations of physical processes to trainable neural network representations"
+  image: figPDENetGen_Burgers202002.jpg
+  description: A first paper from the collaboration with O. Pannekoucke (Meteo France) addressing the automatic generation of neural network architectures from symbolic PDEs.
+  authors: O Pannekoucke, R Fablet 
+  link:
+    url: https://www.geosci-model-dev-discuss.net/gmd-2020-35/
+    display:  GMD (2020)
+  highlight: 1
+  news2:
+
+- title: "GeoTrackNet-A Maritime Anomaly Detector using Probabilistic Neural Network Representation of AIS Tracks and A Contrario Detection"
+  image: figGeoTrackNet.jpg
+  description: The presentation of GeoTrackNet framework for the detection of abnormal behaviours in AIS-based maritime traffic surveillance using variational deep learning.
+  authors: D Nguyen, R Vadaine, G Hajduch, R Garello, R Fablet
+  link:
+    url: https://arxiv.org/abs/1912.00682
+    display:  arXiv:1912.00682
+  highlight: 1
+  news2:

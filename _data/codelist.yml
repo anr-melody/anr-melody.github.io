@@ -1,0 +1,61 @@
+- title: "4DVarNN"
+  image: fig_sketch_4DVarNN.jpg
+  description: Pytorch package for jointly learning variational models and associated solvers, including application to 4DVar data assimilation.
+  authors: R. Fablet
+  paper:
+    url: https://arxiv.org/abs/2006.03653
+  link:
+    url: https://github.com/CIA-Oceanix/DAODEN
+    display:  Git repo
+  highlight: 1
+  codetype: 1
+  news2:
+
+- title: "SSH mapping Data Challenge"
+  image: figSSH_DINAE.jpg
+  description: Pytorch package for the banchmarking of space-time interpolation algorithms for the mapping of SSH fields from satellite data.
+  authors: M. Beauchamp
+  paper_url: https://hal-imt-atlantique.archives-ouvertes.fr/hal-02929973
+  link:
+    url: https://github.com/CIA-Oceanix/DAODEN
+    display:  Git repo
+  highlight: 1
+  codetype: 2
+  news2:
+
+- title: "DAODEN"
+  image: figDAODEN.jpg
+  description: Pytorch package for Data-Assimilation-based ODE Network (DAODEN).
+  authors: D. Nguyen
+  paper_url: https://arxiv.org/abs/2009.02296
+  link:
+    url: https://github.com/CIA-Oceanix/DAODEN
+    display:  Git repo
+  highlight: 1
+  news2:
+
+- title: "PDEnetGen 1.0"
+  image: figPDENetGen_Burgers202002.jpg
+  description: Keras package for the generation of CNN architectures from symbolic PDEs.
+  authors: O. Pannekoucke
+  paper_url: https://www.geosci-model-dev-discuss.net/gmd-2020-35
+  link:
+    url: https://github.com/CIA-Oceanix/pdenetgen
+    display:  Git repo
+  highlight: 1
+  codetype: 1
+  news2:
+  
+- title: "DetideNet"
+  image: fig_sketch_4DVarNN.jpg
+  description: Pytorch package for filtering Internal tides from wide-swath altimeter data using Convolutional Neural Networks.
+  authors: R. Lguensat
+  paper:
+    url: https://arxiv.org/abs/2005.01090
+  link:
+    url: https://github.com/CIA-Oceanix/DetideNet
+    display:  Git repo
+  highlight: 0
+  codetype: 1
+  news2:
+
