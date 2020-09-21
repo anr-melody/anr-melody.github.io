@@ -23,10 +23,10 @@ ANR Melody (2019-2023) “Bridging geophysics and MachinE Learning for the model
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
-        <!-- <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oceanix.jpg" style="height: 300px" alt="Slide 1" />
-        </div>-->
-        <div class="item">
+        <div class="item active">
+        <!--     <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oceanix.jpg" style="height: 300px" alt="Slide 1" />
+        </div>
+        <div class="item">-->
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig_SSHDinAE.jpg" style="height: 300px" alt="Slide 1" />
         </div>
         <div class="item">
