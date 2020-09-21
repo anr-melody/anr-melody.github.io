@@ -1,0 +1,35 @@
+- name: IMT Atlantique
+  photo: logo_IMTA.jpg
+  contact: Prof. Ronan Fablet, IMT Atlantique/Lab-STICC
+  webpage: https://www.labsticc.fr/en/index/
+  
+- name: Ifremer/LOPS
+  photo: logo_LOPS.jpg
+  contact: Dr. Bertrand Chapron, Ifremer/LOPS
+  webpage: https://www.umr-lops.fr/
+
+- name: Sorbonne Univ./LIP6
+  photo: logo_LIP6.jpg
+  contact: Prof. Patrick Gallinari, Sorbonne Univ./LIP6
+  webpage: https://www.umr-lops.fr/
+
+- name: UGA/IGE
+  photo: logo_IGE.jpg
+  contact: Dr. Julien Le Sommer, CNRS/IGE
+  webpage: http://www.ige-grenoble.fr/
+
+- name: INRIA Fluminance
+  photo: logo_Fluminance.jpg
+  contact: Dr. Etienne Mémin, INRIA Rennes/Fluminance
+  webpage: http://www.irisa.fr/fluminance/indexFluminance.html
+
+- name: INRIA AirSea
+  photo: logo_AirSea.jpg
+  contact: Dr. Laurent Debreu, INRIA GRA/AirSea
+  webpage: https://team.inria.fr/airsea/en/equipe/
+
+- name: LSCE
+  photo: logo_LSCE.jpg
+  contact: Dr. Philippe Naveau, CNRS/LSCE
+  webpage: https://www.lsce.ipsl.fr/
+
