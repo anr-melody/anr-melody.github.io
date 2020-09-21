@@ -1,14 +1,11 @@
 ---
-title: "AI Chair OceaniX - Highlights"
+title: "ANR Melody - Highlights"
 layout: gridlay
-excerpt: "AI Chair OceaniX -- Publications."
+excerpt: "ANR Melody -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /highlights/
 ---
 
-
-# Publications
-(For a more detailed list of publications of AI Chair OceaniX <!--full list see [below](#full-list) or--> go to [Google Scholar](https://scholar.google.ch/citations?user=0donG7gAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Ronan_Fablet))
 
 ## Group highlights
 
@@ -50,14 +47,3 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
-
-<!--
-## Full List
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
--->
