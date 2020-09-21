@@ -1,6 +1,6 @@
 ---
 title: "About Melody"
-layout: homelay
+layout: gridlay
 excerpt: "About Melody"
 sitemap: false
 permalink: /about/
