@@ -1,4 +1,4 @@
-# Website for AI CHair OceaniX
+# Website for ANR Project Melody
 
 This is the website of our academic research group.
 This website is based on the template provided by http://www.allanlab.org/
