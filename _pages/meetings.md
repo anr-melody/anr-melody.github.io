@@ -7,9 +7,10 @@ permalink: /meetings/
 ---
 
 
-# **Agenda and minutes of Melody's meeting, October 2020** 
+## **Agenda and minutes of Melody's meeting, October 2020** 
 - **Meeting agenda and actions planned** (last slide): [pdf]({{ site.url }}{{ site.baseurl }}/downloads/meeting_anrMelody_20201012.pdf)
-- **WP1: Representation Learning and Geophysical Dynamics **
+
+- **WP1: Representation Learning and Geophysical Dynamics**
   * Hugo Frezat.  Physical invariance in neural networks for subgrid-scale scalar flux modeling. [pdf]({{ site.url }}{{ site.baseurl }}/downloads/presMelody202010_hfrezat.pdf)
   * Eugene Kazantsev. Subgrid scales and NNs. [pdf]({{ site.url }}{{ site.baseurl }}/downloads/presMelody202010_ekazantsev.pdf)
   * Said Ouala. Representation Learning for Partially-Observed Systems. [pdf]({{ site.url }}{{ site.baseurl }}/downloads/presMelody202010_souala.pdf)
